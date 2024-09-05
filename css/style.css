@@ -3,3 +3,15 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+.app_header{
+    background-image: url(../img/th.jpg);
+    height: 75px;
+    border: 2px solid black;
+}
+
+.text_banner{
+    font-size: 50px;
+    color: aliceblue;
+    padding-left: 10px;
+}
